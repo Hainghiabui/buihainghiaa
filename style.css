@@ -104,9 +104,10 @@ a:hover {
   gap: 2rem;
 }
 button {
-  background-color:white;
+  background-color: antiquewhite;
   padding: 0.3rem;
   border-radius: 0.3rem;
+  border: 1px solid rgb(53, 53, 135);
   
 }
 button:hover{
