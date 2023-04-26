@@ -104,11 +104,14 @@ a:hover {
   gap: 2rem;
 }
 button {
+  background-color:white;
   padding: 0.3rem;
   border-radius: 0.3rem;
+  
 }
 button:hover{
   background-color:violet;
+}
 .product {
   display: flex;
   flex-direction: column;
