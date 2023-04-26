@@ -103,19 +103,12 @@ a:hover {
   align-items: center;
   gap: 2rem;
 }
-.cart-el {
-  background-color: lightcoral;
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-  border-radius: 0.4rem;
-}
 button {
-  background-color: blueviolet;
   padding: 0.3rem;
   border-radius: 0.3rem;
 }
+button:hover{
+  background-color:violet;
 .product {
   display: flex;
   flex-direction: column;
